@@ -1,4 +1,4 @@
-# 📝 So Sánh Trang Web HTML CSS
+# 📝 Web Comparison HTML CSS
 
 🎉 Chào mừng bạn đến với dự án **Web Comparison**! Đây là một ứng dụng Python được thiết kế để so sánh các trang web dựa trên HTML, CSS và hình ảnh hiển thị, chạy trên **máy ảo Azure** với cổng mở để gọi API từ bên ngoài. Dự án tích hợp Azure Blob Storage, Azure AI, Playwright để render và PostgreSQL để lưu trữ kết quả. Ứng dụng so sánh một trang web gốc (do admin gửi) với bài nộp của người tham gia, cung cấp phân tích chi tiết về mức độ tương đồng về hình ảnh và mã nguồn.
 
