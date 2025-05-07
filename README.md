@@ -292,10 +292,6 @@ Chúng tôi hoan nghênh mọi đóng góp! Vui lòng làm theo các bước sau
 4. Đẩy lên nhánh (`git push origin feature/your-feature`).
 5. Mở một pull request.
 
-## 📜 Giấy phép
-
-Dự án này được cấp phép theo Giấy phép MIT. Xem tệp LICENSE để biết thêm chi tiết.
-
 ## 📧 Liên hệ
 
 Email: chauanhkiet2906@gmail.com
